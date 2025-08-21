@@ -20,16 +20,6 @@ button_left.addEventListener("click", function() {
 
 
 
-// frequentely asked questions
-
-questions= document.querySelectorAll(".queries");
-foreach(questions);
-// question_1= document.querySelector("Question_1");
-// question_2= document.querySelector("Question_2");
-// question_3= document.querySelector("Question_3");
-// question_4= document.querySelector("Question_4");
-// question_5= document.querySelector("Question_5");
-// question_6= document.querySelector("Question_6");
 
 
 

@@ -96,15 +96,6 @@ option{
 }
 
 
-
-
-
-
-
-
-
-
-
 /* header end */
 .bg_img_div{
     height: 73vh;
@@ -214,9 +205,6 @@ h1{
 
 
 
-
-
-
 .trending_now{
     color: white;
     font: 30px sans-serif;
@@ -322,14 +310,6 @@ h1{
 }
 
 
-
-
-
-
-
-
-
-
 .card_container::-webkit-scrollbar{
     display: none;
 }
@@ -393,12 +373,6 @@ transform: scale(1.05);
     color: rgb(198, 196, 196);
     margin-bottom: 20px;
 }
-
-
-
-
-
-
 
 
 
@@ -499,13 +473,6 @@ transform: scale(1.05);
 }
 
 
-
-
-
-
-
-
-
 @media screen and (max-width:882px){
     .input_box{
         flex-direction: column;
@@ -530,17 +497,11 @@ transform: scale(1.05);
     }
     .inner_div{
          
-    }
-
-
-    
+    }  
     
 }
  
          
-        
-    
-
 @media screen and (max-width:785pX){
      .nner_div, h1{
     font-size: 40px; 
@@ -549,14 +510,7 @@ transform: scale(1.05);
 
 }
 
-
-
-
-
-
-
-
- @media screen and (max-width:630pX){
+@media screen and (max-width:630pX){
     .netflix_logo_full{
     display: none;
 }
@@ -576,13 +530,6 @@ transform: scale(1.05);
     }
  
 }
-
-
-
-
-
-
-
 
 
 
